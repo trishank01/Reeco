@@ -49,6 +49,56 @@
         "Total" : 650,
         "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
         "status" : "none"
+    },
+    {
+        "id" : 6,
+        "Product_name" : "mango Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "Jack Black Labelmary",
+        "Price" : 65,
+        "Quanity" : 10,
+        "Total" : 650,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
+        "status" : "none"
+    },
+    {
+        "id" : 7,
+        "Product_name" : "mango Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "Jack Black Labelmary",
+        "Price" : 65,
+        "Quanity" : 10,
+        "Total" : 650,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
+        "status" : "none"
+    },
+    {
+        "id" : 8,
+        "Product_name" : "mango Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "Jack Black Labelmary",
+        "Price" : 65,
+        "Quanity" : 10,
+        "Total" : 650,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
+        "status" : "none"
+    },
+    {
+        "id" : 9,
+        "Product_name" : "mango Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "Jack Black Labelmary",
+        "Price" : 65,
+        "Quanity" : 10,
+        "Total" : 650,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
+        "status" : "none"
+    },
+    {
+        "id" : 10,
+        "Product_name" : "mango Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "Jack Black Labelmary",
+        "Price" : 65,
+        "Quanity" : 10,
+        "Total" : 650,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
+        "status" : "none"
     }
     
 ]

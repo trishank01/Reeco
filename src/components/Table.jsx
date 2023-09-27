@@ -24,7 +24,8 @@ const TableBox = () => {
 
   useEffect(() => {
     // Define the path to your static JSON file
-    const jsonFilePath = "src/utils/data.json";
+   // const jsonFilePath = "src/utils/data.json";
+    const jsonFilePath = "https://raw.githubusercontent.com/trishank01/Reeco/0e38506dc6727059fd5b224d2e6e9ababec0e2e2/src/utils/data.json"
 
     // Make a GET request using Axios
     axios
