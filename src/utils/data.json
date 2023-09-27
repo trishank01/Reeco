@@ -1,0 +1,54 @@
+[
+    {
+        "id" : 1,
+        "Product_name" : "Chicken Breast Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "Hormel Black Labelmary",
+        "Price" : 60.76,
+        "Quanity" : 0,
+        "Total" : 0,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/apple.png",
+        "status" : "none"
+        
+    },
+    {
+        "id" : 2,
+        "Product_name" : "Tomato Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "Jack Black Labelmary",
+        "Price" : 65,
+        "Quanity" : 10,
+        "Total" : 650,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
+        "status" : "none"
+    },
+    {
+        "id" : 3,
+        "Product_name" : "Banana Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "John Black Labelmary",
+        "Price" : 65,
+        "Quanity" : 10,
+        "Total" : 650,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
+        "status" : "none"
+    },
+    {
+        "id" : 4,
+        "Product_name" : "kivi Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "Jack Black Labelmary",
+        "Price" : 63,
+        "Quanity" : 10,
+        "Total" : 650,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
+        "status" : "none"
+    },
+    {
+        "id" : 5,
+        "Product_name" : "mango Fillets, Boneless matuu maMarinatd 6 Ounce Raw, Invividd",
+        "Brand" : "Jack Black Labelmary",
+        "Price" : 65,
+        "Quanity" : 10,
+        "Total" : 650,
+        "icon" : "https://raw.githubusercontent.com/trishank01/cawStudio_assignment/main/src/assets/Avocado.jpg",
+        "status" : "none"
+    }
+    
+]
